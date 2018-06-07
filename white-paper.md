@@ -11,9 +11,9 @@ A **Ethereum SP DAO** é autônoma, portanto todas as decisões são feitas por 
 
 Cada proposta precisa ter no minimo 30% do conselho votando para ser válida, no período de 14 dias.
 
-Para fazer parte do conselho, é preciso possuir **Tokens de Governança** e estar entre os **TOP 10 stakeholders**
+Para fazer parte do conselho, é preciso possuir **Tokens de Governança** e estar com volume a cima de ** 10 tokens **
 
-> Se houver necessidade de mais conselheiros, o conselho pode abrir um proposta para alterar esse valor
+> Se houver necessidade de mais conselheiros, o conselho pode abrir um proposta para alterar esse valor de corte
 
 ## Tokens
 
@@ -21,7 +21,7 @@ Todos os token são distribuídos pela organização em troca de tarefas realiza
 
 ### Token de Governança
 
-Esse token estão relacionados com a governança da **Ethereum SP DAO**, acumulando os tokens e sendo um dos **TOP 10 stakeholder**, irá te dar possibilidade de poder votar em propostas, enviar propostas para: alterar governança, alterar lider de projeto, mudar recompensa de tarefa
+Esse token estão relacionados com a governança da **Ethereum SP DAO**, acumulando os tokens e tendo volume de ** 10 tokens **, irá te dar possibilidade de poder votar em propostas, enviar propostas para: alterar governança, alterar lider de projeto, mudar recompensa de tarefa
 Cada token é intransferível e válido por 6 meses *(dando a possibilidade de novos membros conseguirem entrar no conselho)*
 
 ### Token de Projeto
@@ -53,7 +53,7 @@ Esse projeto é patrocinado por uma entidade, renumerando seus contribuidores co
 ### Comunicação
 [Slack](https://ethereumspdao.slack.com)
 ### Governancia/Financeiro
-Aragon link
+[Aragon](http://aragon.aragonpm.com/#/ethereumspdao.aragonid.eth/)
 ### Agenda
 Google calendar link
 ### Evento presencial
