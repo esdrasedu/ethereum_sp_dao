@@ -50,9 +50,15 @@ Esse projeto é patrocinado por uma entidade, renumerando seus contribuidores co
 ## Ferramentas
 ### Codigo/Tarefas
 [Github](https://github.com/esdrasedu/ethereum_sp_dao)
+
+[Trello](https://trello.com)
+
 ### Comunicação
 [Slack](https://ethereumspdao.slack.com)
 [link invite](https://join.slack.com/t/ethereumspdao/shared_invite/enQtMzgyNDM0Nzg1MjIyLTZhMzc2ODU3NmY2Nzc3MmFiYjhhOTVjMTY2MTRkYTY3ZWFhYWRlNTlhYzU5NmQwM2IyOWY4ZDZjNDhlMTRmOWU)
+
+[Trello](https://trello.com)
+
 ### Governancia/Financeiro
 [Aragon](http://aragon.aragonpm.com/#/ethereumspdao.aragonid.eth/)
 ### Agenda
